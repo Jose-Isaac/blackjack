@@ -12,7 +12,7 @@ Toda a geração de deck e sortei das cartas foi feita utilizando a <a href="htt
   <li><strong>JavaScript</strong></li>
 </ul>
 
-Deploy no github pages: <a href="https://jose-isaac.github.io/blackjack/">aqui</a>
+Deploy no github pages: <a href="https://jose-isaac.github.io/blackjack/" target="_blanck">aqui</a>
 
 ### Conceitos praticados
 
