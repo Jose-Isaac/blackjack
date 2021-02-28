@@ -1,6 +1,6 @@
 # BLACKJACK
 
-Implementação do famoso jogos de cartas blackjack, talvez alguns conheçam como '21'.
+Implementação simplificada do famoso jogos de cartas blackjack, talvez alguns conheçam como '21'.
 
 Toda a geração de deck e sortei das cartas foi feita utilizando a <a href="https://deckofcardsapi.com/" target="_blank">deck of cards api</a>
 
