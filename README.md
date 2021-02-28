@@ -12,6 +12,8 @@ Toda a geração de deck e sortei das cartas foi feita utilizando a <a href="htt
   <li><strong>JavaScript</strong></li>
 </ul>
 
+Gitub pages: <a href="https://jose-isaac.github.io/blackjack/">aqui</a>
+
 ### Conceitos praticados
 
 <ul>
@@ -21,23 +23,19 @@ Toda a geração de deck e sortei das cartas foi feita utilizando a <a href="htt
 </ul>
 
 <br>
-<br>
 
 <h2 style="text-align: center">Printscreen do Game</h2>
 
-<br>
 <br>
 
 <h4>Tela inicial</h4>
 <img src="./assets/blackjack-home.png">
 
 <br>
-<br>
 
 <h4>' jogador perdeu! '</h4>
 <img src="./assets/blackjack-perdeu.png">
 
-<br>
 <br>
 
 <h4>' jogador ganhou! '</h4>
